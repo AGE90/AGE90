@@ -39,9 +39,8 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 
 ## ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
