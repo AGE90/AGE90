@@ -37,6 +37,14 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 🌐 Let’s Connect
 
 I love deep discussions — from signal modeling to societal frameworks.  
