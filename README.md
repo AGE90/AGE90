@@ -40,14 +40,14 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90](https://github.com/AGE90/AGE90)<br>
+1. ⬆️ Pushed 1 commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
 2. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90](https://github.com/AGE90/AGE90)<br>
 3. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90](https://github.com/AGE90/AGE90)<br>
 4. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90](https://github.com/AGE90/AGE90)<br>
-5. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90.github.io](https://github.com/AGE90/AGE90.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [AGE90/AGE90](https://github.com/AGE90/AGE90)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 13th, 2025, 1:16:47 AM
+Last Updated: Monday, July 14th, 2025, 1:13:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
