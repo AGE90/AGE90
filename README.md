@@ -40,12 +40,14 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
-2. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
-3. ⭐ Starred [honestsoul/generative_ai_project](https://github.com/honestsoul/generative_ai_project)<br>
+1. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
+2. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
+3. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
+4. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
+5. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 3rd, 2025, 1:07:44 AM
+Last Updated: Tuesday, November 4th, 2025, 1:04:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
