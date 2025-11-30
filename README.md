@@ -40,14 +40,14 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
-2. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
-3. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
+1. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
+2. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
+3. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
 4. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
 5. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 29th, 2025, 1:04:03 AM
+Last Updated: Sunday, November 30th, 2025, 1:14:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
