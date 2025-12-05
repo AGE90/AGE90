@@ -43,11 +43,9 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 1. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
 2. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
 3. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
-4. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
-5. ⬆️ Pushed undefined commit(s) to [AGE90/prueba-tecnica-proteccion](https://github.com/AGE90/prueba-tecnica-proteccion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 4th, 2025, 1:07:13 AM
+Last Updated: Friday, December 5th, 2025, 1:07:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
