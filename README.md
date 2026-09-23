@@ -41,13 +41,13 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [AGE90/audio-files-tagging](https://github.com/AGE90/audio-files-tagging)<br>
-2. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
+2. ⬆️ Pushed undefined commit(s) to [AGE90/audio-files-tagging](https://github.com/AGE90/audio-files-tagging)<br>
 3. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
 4. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
-5. ⭐ Starred [nikmaniatis/Pd-MCP-Server](https://github.com/nikmaniatis/Pd-MCP-Server)<br>
+5. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 22nd, 2026, 12:16:40 AM
+Last Updated: Wednesday, September 23rd, 2026, 12:15:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
