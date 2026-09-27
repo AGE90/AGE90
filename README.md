@@ -40,14 +40,14 @@ Welcome to my GitHub! I'm a data scientist with a passion for making complex sys
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AGE90/audio-files-tagging](https://github.com/AGE90/audio-files-tagging)<br>
-2. ⬆️ Pushed undefined commit(s) to [AGE90/audio-files-tagging](https://github.com/AGE90/audio-files-tagging)<br>
-3. ⬆️ Pushed undefined commit(s) to [AGE90/audio-files-tagging](https://github.com/AGE90/audio-files-tagging)<br>
-4. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
-5. ⬆️ Pushed undefined commit(s) to [AGE90/ptbxl-challenge](https://github.com/AGE90/ptbxl-challenge)<br>
+1. ⬆️ Pushed undefined commit(s) to [AGE90/genai-data-analysis](https://github.com/AGE90/genai-data-analysis)<br>
+2. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-generative-ai](https://github.com/AGE90/cookiecutter-generative-ai)<br>
+3. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
+4. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
+5. ⬆️ Pushed undefined commit(s) to [AGE90/cookiecutter-data-science](https://github.com/AGE90/cookiecutter-data-science)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 26th, 2026, 12:16:23 AM
+Last Updated: Sunday, September 27th, 2026, 12:19:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
