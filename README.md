@@ -2,7 +2,7 @@
 
 **Data Scientist · Machine Learning & MLOps · Digital Signal Processing**
 
-I build machine learning systems end to end — from research and experimentation to reproducible, production-ready pipelines. My path started in **sound engineering**, moved through **digital signal processing** research, and now centers on **machine learning and MLOps**, with industry experience in credit risk modeling and research in biomedical signal analysis.
+I build machine learning systems end to end - from research and experimentation to reproducible, production-ready pipelines. My path started in **sound engineering**, moved through **digital signal processing** research, and now centers on **machine learning and MLOps**, with industry experience in credit risk modeling and research in biomedical signal analysis.
 
 ---
 
